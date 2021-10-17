@@ -12,8 +12,6 @@
 - 💬 Ask me about physics
 
 ### How to Reach Me
-- 📫 How to reach me: https://www.linkedin.com/in/ay%C5%9Feg%C3%BCl-%C3%A7elik-a10705159/
-- 😄 Pronouns: ...
-
-- 🔭 I’m currently working on ...
+📌 https://www.linkedin.com/in/ay%C5%9Feg%C3%BCl-%C3%A7elik-a10705159/
+📌
 
