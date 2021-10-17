@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **AysegulCelk/AysegulCelk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/ay%C5%9Feg%C3%BCl-%C3%A7elik-a10705159/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
