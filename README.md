@@ -13,6 +13,7 @@
 
 ### How to Reach Me
 📌 https://www.linkedin.com/in/ay%C5%9Feg%C3%BCl-%C3%A7elik-a10705159/
-📌![image](https://user-images.githubusercontent.com/89536705/137646682-39e2c833-d885-4abf-9950-70913be82937.png)
+📌![image](https://www.linkedin.com/in/ay%C5%9Feg%C3%BCl-%C3%A7elik-a10705159/)
+
 
 
