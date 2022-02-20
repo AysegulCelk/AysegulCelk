@@ -1,4 +1,7 @@
-<img alt="GIF" src="https://giffiles.alphacoders.com/209/209037.gif" width = 300/>
+<div align="center">
+  <img alt="GIF" src="https://giffiles.alphacoders.com/209/209037.gif" width = 300/>
+ </div>
+
 
 <h1 align="center">Hi 👋, I'm Ayşegül Çelik</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
